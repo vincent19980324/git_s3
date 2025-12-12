@@ -2,3 +2,4 @@
 3DNR_ZCOMBO.z02 filter=lfs diff=lfs merge=lfs -text
 3DNR_ZCOMBO.zip filter=lfs diff=lfs merge=lfs -text
 WB.7z filter=lfs diff=lfs merge=lfs -text
+RGBIR.7z filter=lfs diff=lfs merge=lfs -text
