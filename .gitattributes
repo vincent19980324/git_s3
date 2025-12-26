@@ -6,3 +6,13 @@ RGBIR.7z filter=lfs diff=lfs merge=lfs -text
 DPCGEandDM.7z filter=lfs diff=lfs merge=lfs -text
 BNR_CCM_CST_SCALER.7z filter=lfs diff=lfs merge=lfs -text
 GAMMA_YCURVE.7z filter=lfs diff=lfs merge=lfs -text
+4k.z06 filter=lfs diff=lfs merge=lfs -text
+4k.z09 filter=lfs diff=lfs merge=lfs -text
+4k.z01 filter=lfs diff=lfs merge=lfs -text
+4k.z07 filter=lfs diff=lfs merge=lfs -text
+4k.z08 filter=lfs diff=lfs merge=lfs -text
+4k.zip filter=lfs diff=lfs merge=lfs -text
+4k.z02 filter=lfs diff=lfs merge=lfs -text
+4k.z03 filter=lfs diff=lfs merge=lfs -text
+4k.z04 filter=lfs diff=lfs merge=lfs -text
+4k.z05 filter=lfs diff=lfs merge=lfs -text
