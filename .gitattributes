@@ -20,3 +20,4 @@ CNR.7z filter=lfs diff=lfs merge=lfs -text
 RCURVE.rar filter=lfs diff=lfs merge=lfs -text
 FCURVE.rar filter=lfs diff=lfs merge=lfs -text
 LCE.rar filter=lfs diff=lfs merge=lfs -text
+CNR.rar filter=lfs diff=lfs merge=lfs -text
