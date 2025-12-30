@@ -27,3 +27,7 @@ CNR.rar filter=lfs diff=lfs merge=lfs -text
 4k_new.part04.rar filter=lfs diff=lfs merge=lfs -text
 4k_new.part05.rar filter=lfs diff=lfs merge=lfs -text
 4k_new.part06.rar filter=lfs diff=lfs merge=lfs -text
+4k_new2.part2.rar filter=lfs diff=lfs merge=lfs -text
+4k_new2.part3.rar filter=lfs diff=lfs merge=lfs -text
+4k_new2.part4.rar filter=lfs diff=lfs merge=lfs -text
+4k_new2.part1.rar filter=lfs diff=lfs merge=lfs -text
