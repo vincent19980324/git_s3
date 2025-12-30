@@ -21,3 +21,9 @@ RCURVE.rar filter=lfs diff=lfs merge=lfs -text
 FCURVE.rar filter=lfs diff=lfs merge=lfs -text
 LCE.rar filter=lfs diff=lfs merge=lfs -text
 CNR.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part01.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part02.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part03.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part04.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part05.rar filter=lfs diff=lfs merge=lfs -text
+4k_new.part06.rar filter=lfs diff=lfs merge=lfs -text
