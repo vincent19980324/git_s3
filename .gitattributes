@@ -1,6 +1,2 @@
-4k_new4.7z filter=lfs diff=lfs merge=lfs -text
-4k_new4.zip filter=lfs diff=lfs merge=lfs -text
-CNR[[:space:]](Cmodel)[[:space:]]-[[:space:]]non[[:space:]]4k.rar filter=lfs diff=lfs merge=lfs -text
-CNR[[:space:]](Cmodel)[[:space:]]-[[:space:]]non[[:space:]]4k.7z filter=lfs diff=lfs merge=lfs -text
-t100000.7z filter=lfs diff=lfs merge=lfs -text
-ZCOMBO.7z filter=lfs diff=lfs merge=lfs -text
+3DNR.part1.rar filter=lfs diff=lfs merge=lfs -text
+3DNR.part2.rar filter=lfs diff=lfs merge=lfs -text
